@@ -21,3 +21,7 @@
 go.work
 
 input
+
+# C files
+*.o
+a.out
